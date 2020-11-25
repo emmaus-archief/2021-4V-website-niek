@@ -32,6 +32,15 @@ footer {
     text-align: center;
     padding-bottom: 10px;
 }
+#ontstaan-text{
+    float: right;
+    width: 74%;
+}
+#wolf{
+    width: 25%;
+    position: relative;
+    top: 20px;
+}
 
 
 /* specifieke stijlen */
