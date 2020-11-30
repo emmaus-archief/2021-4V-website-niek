@@ -41,6 +41,10 @@ footer {
     position: relative;
     top: 20px;
 }
+#caesar{
+    float: right;
+    width: 30%;
+}
 
 
 /* specifieke stijlen */
