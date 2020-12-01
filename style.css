@@ -32,26 +32,7 @@ footer {
     text-align: center;
     padding-bottom: 10px;
 }
-#ontstaan-text{
-    float: right;
-    width: 69%;
-}
-#wolf{
-    position: relative;
-    top: 18px;
-}
-#caesar{
-    float: left;
-    position: relative;
-    top: 20px;
-}
-.afbeelding{
-    width: 30%;
-}
-.keizerstekst{
-    float: right;
-    width: 69%;
-}
+
 
 
 /* specifieke stijlen */
@@ -76,6 +57,26 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+#ontstaan-text{
+    float: right;
+    width: 69%;
+}
+#wolf{
+    position: relative;
+    top: 18px;
+}
+#ceasar{
+    float: left;
+    position: relative;
+    top: 20px;
+}
+.afbeelding{
+    width: 30%;
+}
+.keizerstekst{
+    float: right;
+    width: 69%;
 }
 
 
