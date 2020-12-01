@@ -34,16 +34,23 @@ footer {
 }
 #ontstaan-text{
     float: right;
-    width: 74%;
+    width: 69%;
 }
 #wolf{
-    width: 25%;
+    position: relative;
+    top: 18px;
+}
+#caesar{
+    float: left;
     position: relative;
     top: 20px;
 }
-#caesar{
-    float: right;
+.afbeelding{
     width: 30%;
+}
+.keizerstekst{
+    float: right;
+    width: 69%;
 }
 
 
