@@ -31,6 +31,7 @@ header {
 footer {
     text-align: center;
     padding-bottom: 10px;
+    clear: both;
 }
 
 
@@ -44,6 +45,7 @@ img.zweefrechts {
     width: 30%;
     position: relative;
     top: 5px;
+    clear: both;
 }
 
 .smalltext {
