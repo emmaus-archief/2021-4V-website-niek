@@ -80,6 +80,10 @@ a:hover {
     float: right;
     width: 69%;
 }
+.titel{
+    background-color: rgb(235, 174, 0);
+    clear: both;
+}
 
 
 /* navigatiebalk */
