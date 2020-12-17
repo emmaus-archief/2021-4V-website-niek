@@ -60,6 +60,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+/*mijn stuk css voor het floaten van tekst en plaatjes*/
+
 #ontstaan-text{
     float: right;
     width: 69%;
