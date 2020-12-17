@@ -67,20 +67,37 @@ a:hover {
     float: right;
     width: 69%;
 }
+
 #wolf{
     position: relative;
     top: 18px;
 }
+
 .afbeelding{
     width: 30%;
 }
+
 .keizerstekst{
     float: right;
     width: 69%;
 }
+
 .titel{
     background-color: rgb(235, 174, 0);
     clear: both;
+}
+
+#caesar{
+    float: right;
+}
+
+#caesartekst{
+    width: 69%;
+    float: left;
+}
+
+.titel{
+    font-weight: bold;
 }
 
 
@@ -113,6 +130,20 @@ nav li a.active {
     background-color: rgb(255, 174, 0);
 }
 
+/*animatie*/
+
+@keyframes fadein{
+    0% {
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+#fade-in{
+    animation: fadein 3s;
+}
 
 
 
